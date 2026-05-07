@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 AI Email Debugger
 
 A clean, simple Laravel 12 utility tool for testing emails and analyzing them using AI providers like OpenAI, OpenRouter, and Google Gemini.
@@ -351,3 +352,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# AI-SMTP-Debugger
+Universal SMTP Testing &amp; Email Authentication Tool
+>>>>>>> 470adb010e290ec0e155452cd87f342ef6844aa9
