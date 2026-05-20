@@ -3,6 +3,9 @@
 
 A clean, simple Laravel 12 utility tool for testing emails and analyzing them using AI providers like OpenAI, OpenRouter, and Google Gemini.
 
+<img width="1008" height="672" alt="image" src="https://github.com/user-attachments/assets/e77ddf68-0ff2-4e89-b215-5b90a0439ef6" />
+
+
 ## 📋 Features
 
 ✨ **SMTP Testing**
